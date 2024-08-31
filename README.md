@@ -1,4 +1,4 @@
-ALEX: Gelişmiş Öğrenme ve Keşif Deneyimi
+**ALEX: Gelişmiş Öğrenme ve Keşif Deneyimi**
 
 Birçok araştırmacı ar-ge çalışmalarında yardıma ihtiyaç duymaktadır. ALEX platformu bu aşamada araştırmacıya yardımcı olmayı hedeflemektedir. Projenizin ar-ge niteliği taşıyıp taşımadığı uzman bir denetim sisteminden geçmektedir. ALEX platformu 7/24 size hizmet vermeyi amaçlamaktadır. Bilgisayar, tablet veya cep telefonunuzdan bu platforma ulaşabilirsiniz. 
 
@@ -8,7 +8,7 @@ Ar-Ge (Araştırma ve Geliştirme) projelerinin amacı, yeni bilgi ve teknolojil
 
 --------------------------------------------------------------
 
-ALEX: Advanced Learning and Exploration Xperience
+**ALEX: Advanced Learning and Exploration Xperience**
 
 Many researchers need help in R&D studies. The ALEX platform aims to assist researchers at this stage. Whether your project qualifies as R&D goes through an expert audit system. The ALEX platform aims to serve you 24/7. You can access this platform from your computer, tablet or mobile phone.
 
